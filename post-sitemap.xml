@@ -32,14 +32,6 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/GoogleChrome/</loc>
-        <lastmod>2019-02-21T03:36:18.074Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://appx.online/windows/Lantern/</loc>
         <lastmod>2019-02-21T03:36:18.074Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -56,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/Typora/</loc>
+        <loc>https://appx.online/windows/GoogleChrome/</loc>
         <lastmod>2019-02-21T03:36:18.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,8 +64,8 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Atom/</loc>
-        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
+        <loc>https://appx.online/windows/Typora/</loc>
+        <lastmod>2019-02-21T03:36:18.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -88,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Iconjar/</loc>
+        <loc>https://appx.online/mac/Atom/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Lantern/</loc>
+        <loc>https://appx.online/mac/Iconjar/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,6 +112,14 @@
     </url>
 
     <url>
+        <loc>https://appx.online/mac/Sketch/</loc>
+        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://appx.online/mac/MicrosoftOffice/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -128,7 +128,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Sketch/</loc>
+        <loc>https://appx.online/mac/Lantern/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,7 +144,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Typora/</loc>
+        <loc>https://appx.online/mac/iStatMenus/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -152,7 +152,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/iStatMenus/</loc>
+        <loc>https://appx.online/mac/Typora/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Typora</title>
-      <link href="/mac/Typora/"/>
-      <url>/mac/Typora/</url>
+      <title>iStat Menus</title>
+      <link href="/mac/iStatMenus/"/>
+      <url>/mac/iStatMenus/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>10MB</td><td><a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.18.1 (1088)</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/istat-menus-for-mac.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-24</td><td>22.6MB</td><td><a href="https://img.vim-cn.com/39/ccff2532ab959f8cbb19141fd2f1aa0be83566.zip" rel="external nofollow noopener noreferrer" target="_blank">6.21</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -20,32 +20,7 @@
       
         <tags>
             
-            <tag> Editor </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Microsoft Office</title>
-      <link href="/windows/MicrosoftOffice/"/>
-      <url>/windows/MicrosoftOffice/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown">[MSDN][MSDN]</div></td><td>2016</td><td>2.41GB</td><td><a href="ed2k://|file|cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso|2588266496|27EEA4FE4BB13CD0ECCDFC24167F9E01|/" target="_blank" rel="noopener">Professional Plus x86 x64</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Office </tag>
+            <tag> Utilities </tag>
             
         </tags>
       
@@ -104,11 +79,11 @@
     
     
     <entry>
-      <title>Iconjar</title>
-      <link href="/mac/Iconjar/"/>
-      <url>/mac/Iconjar/</url>
+      <title>Atom</title>
+      <link href="/mac/Atom/"/>
+      <url>/mac/Atom/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -120,7 +95,7 @@
       
         <tags>
             
-            <tag> Design </tag>
+            <tag> Editor </tag>
             
         </tags>
       
@@ -154,11 +129,11 @@
     
     
     <entry>
-      <title>Lantern</title>
-      <link href="/mac/Lantern/"/>
-      <url>/mac/Lantern/</url>
+      <title>Iconjar</title>
+      <link href="/mac/Iconjar/"/>
+      <url>/mac/Iconjar/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>8MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.dmg</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -170,7 +145,7 @@
       
         <tags>
             
-            <tag> Network </tag>
+            <tag> Design </tag>
             
         </tags>
       
@@ -204,6 +179,31 @@
     
     
     <entry>
+      <title>Sketch</title>
+      <link href="/mac/Sketch/"/>
+      <url>/mac/Sketch/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/sketch.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-09-11</td><td>35.6MB</td><td><a href="https://img.vim-cn.com/9e/321d19945e496f6af79e430c2c6c0eff00ad02.zip" rel="external nofollow noopener noreferrer" target="_blank">51.3</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> macOS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Design </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Microsoft Office for macOS</title>
       <link href="/mac/MicrosoftOffice/"/>
       <url>/mac/MicrosoftOffice/</url>
@@ -229,11 +229,11 @@
     
     
     <entry>
-      <title>Sketch</title>
-      <link href="/mac/Sketch/"/>
-      <url>/mac/Sketch/</url>
+      <title>Lantern</title>
+      <link href="/mac/Lantern/"/>
+      <url>/mac/Lantern/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/sketch.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-09-11</td><td>35.6MB</td><td><a href="https://img.vim-cn.com/9e/321d19945e496f6af79e430c2c6c0eff00ad02.zip" rel="external nofollow noopener noreferrer" target="_blank">51.3</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>8MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.dmg</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -245,7 +245,7 @@
       
         <tags>
             
-            <tag> Design </tag>
+            <tag> Network </tag>
             
         </tags>
       
@@ -279,16 +279,16 @@
     
     
     <entry>
-      <title>Atom</title>
-      <link href="/mac/Atom/"/>
-      <url>/mac/Atom/</url>
+      <title>Typora</title>
+      <link href="/windows/Typora/"/>
+      <url>/windows/Typora/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://typora.io/windows/typora-setup-x64.exe?" rel="external nofollow noopener noreferrer" target="_blank">beta x64</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> macOS </category>
+          <category> Windows </category>
           
       </categories>
       
@@ -304,11 +304,11 @@
     
     
     <entry>
-      <title>iStat Menus</title>
-      <link href="/mac/iStatMenus/"/>
-      <url>/mac/iStatMenus/</url>
+      <title>Typora</title>
+      <link href="/mac/Typora/"/>
+      <url>/mac/Typora/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/istat-menus-for-mac.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-24</td><td>22.6MB</td><td><a href="https://img.vim-cn.com/39/ccff2532ab959f8cbb19141fd2f1aa0be83566.zip" rel="external nofollow noopener noreferrer" target="_blank">6.21</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>10MB</td><td><a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.18.1 (1088)</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -320,7 +320,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
+            <tag> Editor </tag>
             
         </tags>
       
@@ -404,31 +404,6 @@
     
     
     <entry>
-      <title>Google Chrome</title>
-      <link href="/windows/GoogleChrome/"/>
-      <url>/windows/GoogleChrome/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe google"><a href="https://www.google.cn/chrome/index.html" rel="external nofollow noopener noreferrer" target="_blank">Google</a></div></td><td>2018-09</td><td>1MB</td><td><a href="https://img.vim-cn.com/1e/6e38925febe4bfc7c189feb2dcf1b6c080bf02.zip" rel="external nofollow noopener noreferrer" target="_blank">在线安装器</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Browser </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Lantern</title>
       <link href="/windows/Lantern/"/>
       <url>/windows/Lantern/</url>
@@ -479,6 +454,56 @@
     
     
     <entry>
+      <title>Google Chrome</title>
+      <link href="/windows/GoogleChrome/"/>
+      <url>/windows/GoogleChrome/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe google"><a href="https://www.google.cn/chrome/index.html" rel="external nofollow noopener noreferrer" target="_blank">Google</a></div></td><td>2018-09</td><td>1MB</td><td><a href="https://img.vim-cn.com/1e/6e38925febe4bfc7c189feb2dcf1b6c080bf02.zip" rel="external nofollow noopener noreferrer" target="_blank">在线安装器</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Browser </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Microsoft Office</title>
+      <link href="/windows/MicrosoftOffice/"/>
+      <url>/windows/MicrosoftOffice/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown">[MSDN][MSDN]</div></td><td>2016</td><td>2.41GB</td><td><a href="ed2k://|file|cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso|2588266496|27EEA4FE4BB13CD0ECCDFC24167F9E01|/" target="_blank" rel="noopener">Professional Plus x86 x64</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Office </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows 10 系统下载</title>
       <link href="/windows/Windows10/"/>
       <url>/windows/Windows10/</url>
@@ -496,31 +521,6 @@
         <tags>
             
             <tag> System </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Typora</title>
-      <link href="/windows/Typora/"/>
-      <url>/windows/Typora/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://typora.io/windows/typora-setup-x64.exe?" rel="external nofollow noopener noreferrer" target="_blank">beta x64</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Editor </tag>
             
         </tags>
       
