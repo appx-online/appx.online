@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>Typora</title>
-      <link href="/mac/Typora/"/>
-      <url>/mac/Typora/</url>
+      <title>Atom</title>
+      <link href="/windows/Atom/"/>
+      <url>/windows/Atom/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>10MB</td><td><a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.18.1 (1088)</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>129MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-windows.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> macOS </category>
+          <category> Windows </category>
           
       </categories>
       
@@ -46,6 +46,31 @@
         <tags>
             
             <tag> Network </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Atom</title>
+      <link href="/mac/Atom/"/>
+      <url>/mac/Atom/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> macOS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Editor </tag>
             
         </tags>
       
@@ -104,56 +129,6 @@
     
     
     <entry>
-      <title>Atom</title>
-      <link href="/mac/Atom/"/>
-      <url>/mac/Atom/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> macOS </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Editor </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Iconjar</title>
-      <link href="/mac/Iconjar/"/>
-      <url>/mac/Iconjar/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> macOS </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Design </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Lantern</title>
       <link href="/mac/Lantern/"/>
       <url>/mac/Lantern/</url>
@@ -179,11 +154,11 @@
     
     
     <entry>
-      <title>CleanMyMac X</title>
-      <link href="/mac/MacBooster/"/>
-      <url>/mac/MacBooster/</url>
+      <title>Iconjar</title>
+      <link href="/mac/Iconjar/"/>
+      <url>/mac/Iconjar/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/mac-booster.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-08-14</td><td>28.2MB</td><td><a href="https://img.vim-cn.com/2f/8b7d20e3624acb6fe6d8af5b2d0ebb97177eb9.zip" rel="external nofollow noopener noreferrer" target="_blank">7.0.2</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -195,7 +170,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
+            <tag> Design </tag>
             
         </tags>
       
@@ -280,6 +255,31 @@
     
     <entry>
       <title>Typora</title>
+      <link href="/mac/Typora/"/>
+      <url>/mac/Typora/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>10MB</td><td><a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.18.1 (1088)</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> macOS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Editor </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Typora</title>
       <link href="/windows/Typora/"/>
       <url>/windows/Typora/</url>
       
@@ -321,31 +321,6 @@
         <tags>
             
             <tag> Utilities </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Atom</title>
-      <link href="/windows/Atom/"/>
-      <url>/windows/Atom/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>129MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-windows.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Editor </tag>
             
         </tags>
       
@@ -429,31 +404,6 @@
     
     
     <entry>
-      <title>Lantern</title>
-      <link href="/windows/Lantern/"/>
-      <url>/windows/Lantern/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>7.6MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.exe</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Network </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MATLAB</title>
       <link href="/windows/MATLAB/"/>
       <url>/windows/MATLAB/</url>
@@ -471,6 +421,31 @@
         <tags>
             
             <tag> Utilities </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Lantern</title>
+      <link href="/windows/Lantern/"/>
+      <url>/windows/Lantern/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>7.6MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.exe</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Network </tag>
             
         </tags>
       
@@ -514,6 +489,31 @@
       <categories>
           
           <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Utilities </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CleanMyMac X</title>
+      <link href="/mac/MacBooster/"/>
+      <url>/mac/MacBooster/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/mac-booster.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-08-14</td><td>28.2MB</td><td><a href="https://img.vim-cn.com/2f/8b7d20e3624acb6fe6d8af5b2d0ebb97177eb9.zip" rel="external nofollow noopener noreferrer" target="_blank">7.0.2</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> macOS </category>
           
       </categories>
       

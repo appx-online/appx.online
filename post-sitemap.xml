@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/Lantern/</loc>
+        <loc>https://appx.online/windows/MATLAB/</loc>
         <lastmod>2019-02-21T03:36:18.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/MATLAB/</loc>
+        <loc>https://appx.online/windows/Lantern/</loc>
         <lastmod>2019-02-21T03:36:18.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,6 +48,14 @@
     </url>
 
     <url>
+        <loc>https://appx.online/windows/Windows10/</loc>
+        <lastmod>2019-02-21T03:36:18.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://appx.online/windows/Typora/</loc>
         <lastmod>2019-02-21T03:36:18.074Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -56,8 +64,8 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/Windows10/</loc>
-        <lastmod>2019-02-21T03:36:18.074Z</lastmod>
+        <loc>https://appx.online/mac/Atom/</loc>
+        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -80,22 +88,6 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Atom/</loc>
-        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://appx.online/mac/Iconjar/</loc>
-        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://appx.online/mac/Lantern/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -104,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/MacBooster/</loc>
+        <loc>https://appx.online/mac/Iconjar/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,14 +136,6 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/iStatMenus/</loc>
-        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://appx.online/windows/Atom/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -160,7 +144,23 @@
     </url>
 
     <url>
+        <loc>https://appx.online/mac/iStatMenus/</loc>
+        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://appx.online/windows/GHOST/</loc>
+        <lastmod>2019-02-21T03:36:18.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://appx.online/mac/MacBooster/</loc>
         <lastmod>2019-02-21T03:36:18.065Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
