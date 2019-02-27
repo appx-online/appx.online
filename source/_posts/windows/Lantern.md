@@ -1,5 +1,10 @@
 ---
 title: Lantern
+thumbnail: https://img.vim-cn.com/eb/d7185f24643105ecde3f1eb68b89a106e2cad4.png
+date: 2019-02-23
+updated: 2019-02-23
+meta:
+  date: false
 categories: Windows
 tags:
   - Network
