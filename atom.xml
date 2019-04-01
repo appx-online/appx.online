@@ -86,27 +86,6 @@
   </entry>
   
   <entry>
-    <title>iOS Beta Profile</title>
-    <link href="https://appx.online/ios/index/"/>
-    <id>https://appx.online/ios/index/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://developer.apple.
-      
-    
-    </summary>
-    
-      <category term="iOS" scheme="https://appx.online/categories/ios/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>CleanMyMac X</title>
     <link href="https://appx.online/mac/CleanMyMacX/"/>
     <id>https://appx.online/mac/CleanMyMacX/</id>
@@ -126,6 +105,29 @@
     
     
       <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lantern for Android</title>
+    <link href="https://appx.online/android/Lantern/"/>
+    <id>https://appx.online/android/Lantern/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="https://appx.online/categories/android/"/>
+    
+    
+      <category term="Network" scheme="https://appx.online/tags/network/"/>
     
   </entry>
   
@@ -176,29 +178,6 @@
   </entry>
   
   <entry>
-    <title>MacBooster</title>
-    <link href="https://appx.online/mac/MacBooster/"/>
-    <id>https://appx.online/mac/MacBooster/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
-      
-    
-    </summary>
-    
-      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
-    
-    
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Lantern for Mac</title>
     <link href="https://appx.online/mac/Lantern/"/>
     <id>https://appx.online/mac/Lantern/</id>
@@ -218,6 +197,29 @@
     
     
       <category term="Network" scheme="https://appx.online/tags/network/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MacBooster</title>
+    <link href="https://appx.online/mac/MacBooster/"/>
+    <id>https://appx.online/mac/MacBooster/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
     
   </entry>
   
@@ -268,9 +270,9 @@
   </entry>
   
   <entry>
-    <title>Lantern for Android</title>
-    <link href="https://appx.online/android/Lantern/"/>
-    <id>https://appx.online/android/Lantern/</id>
+    <title>iOS Beta Profile</title>
+    <link href="https://appx.online/ios/index/"/>
+    <id>https://appx.online/ios/index/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -278,15 +280,33 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://developer.apple.
       
     
     </summary>
     
-      <category term="Android" scheme="https://appx.online/categories/android/"/>
+      <category term="iOS" scheme="https://appx.online/categories/ios/"/>
     
     
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
+  </entry>
+  
+  <entry>
+    <title>Typora for Mac</title>
+    <link href="https://appx.online/mac/Typora/"/>
+    <id>https://appx.online/mac/Typora/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-03-29T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Download the latest version directly from the official website: &lt;a href=&quot;https://typora.io/download/Typora.dmg&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://typora.io/download/Typora.dmg&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
     
   </entry>
   
@@ -310,26 +330,6 @@
     
     
       <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Typora for Mac</title>
-    <link href="https://appx.online/mac/Typora/"/>
-    <id>https://appx.online/mac/Typora/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-03-29T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Download the latest version directly from the official website: &lt;a href=&quot;https://typora.io/download/Typora.dmg&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://typora.io/download/Typora.dmg&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
-    
-    
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
     
   </entry>
   
@@ -380,29 +380,6 @@
   </entry>
   
   <entry>
-    <title>KMSpico</title>
-    <link href="https://appx.online/windows/KMSpico/"/>
-    <id>https://appx.online/windows/KMSpico/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
-      
-    
-    </summary>
-    
-      <category term="Windows" scheme="https://appx.online/categories/windows/"/>
-    
-    
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Google Chrome for Windows</title>
     <link href="https://appx.online/windows/GoogleChrome/"/>
     <id>https://appx.online/windows/GoogleChrome/</id>
@@ -422,6 +399,29 @@
     
     
       <category term="Browser" scheme="https://appx.online/tags/browser/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>KMSpico</title>
+    <link href="https://appx.online/windows/KMSpico/"/>
+    <id>https://appx.online/windows/KMSpico/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Windows" scheme="https://appx.online/categories/windows/"/>
+    
+    
+      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
     
   </entry>
   

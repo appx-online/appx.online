@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/ios/index/</loc>
+        <loc>https://appx.online/android/Lantern/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/android/Lantern/</loc>
+        <loc>https://appx.online/ios/index/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/MacBooster/</loc>
+        <loc>https://appx.online/mac/Lantern/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Lantern/</loc>
+        <loc>https://appx.online/mac/MacBooster/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/KMSpico/</loc>
+        <loc>https://appx.online/windows/GoogleChrome/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,7 +144,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/GoogleChrome/</loc>
+        <loc>https://appx.online/windows/KMSpico/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -176,7 +176,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/Windows10/</loc>
+        <loc>https://appx.online/windows/Typora/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,7 +184,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/Typora/</loc>
+        <loc>https://appx.online/windows/Windows10/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

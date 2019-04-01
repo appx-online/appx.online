@@ -79,25 +79,6 @@
     
     
     <entry>
-      <title>iOS Beta Profile</title>
-      <link href="/ios/index/"/>
-      <url>/ios/index/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://developer.apple.com/download/" rel="external nofollow noopener noreferrer" target="_blank">Apple Inc</a></td><td>2018-06-09</td><td>9KB</td><td>iOS 12 Beta Profile</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> iOS </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>CleanMyMac X</title>
       <link href="/mac/CleanMyMacX/"/>
       <url>/mac/CleanMyMacX/</url>
@@ -115,6 +96,31 @@
         <tags>
             
             <tag> Utilities </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Lantern for Android</title>
+      <link href="/android/Lantern/"/>
+      <url>/android/Lantern/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>34.2MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.apk</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Network </tag>
             
         </tags>
       
@@ -173,31 +179,6 @@
     
     
     <entry>
-      <title>MacBooster</title>
-      <link href="/mac/MacBooster/"/>
-      <url>/mac/MacBooster/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/mac-booster.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-08-14</td><td>28.2MB</td><td><a href="https://img.vim-cn.com/2f/8b7d20e3624acb6fe6d8af5b2d0ebb97177eb9.zip" rel="external nofollow noopener noreferrer" target="_blank">7.0.2</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Utilities </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Lantern for Mac</title>
       <link href="/mac/Lantern/"/>
       <url>/mac/Lantern/</url>
@@ -215,6 +196,31 @@
         <tags>
             
             <tag> Network </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MacBooster</title>
+      <link href="/mac/MacBooster/"/>
+      <url>/mac/MacBooster/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/mac-booster.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-08-14</td><td>28.2MB</td><td><a href="https://img.vim-cn.com/2f/8b7d20e3624acb6fe6d8af5b2d0ebb97177eb9.zip" rel="external nofollow noopener noreferrer" target="_blank">7.0.2</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Utilities </tag>
             
         </tags>
       
@@ -273,23 +279,42 @@
     
     
     <entry>
-      <title>Lantern for Android</title>
-      <link href="/android/Lantern/"/>
-      <url>/android/Lantern/</url>
+      <title>iOS Beta Profile</title>
+      <link href="/ios/index/"/>
+      <url>/ios/index/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>34.2MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.apk</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://developer.apple.com/download/" rel="external nofollow noopener noreferrer" target="_blank">Apple Inc</a></td><td>2018-06-09</td><td>9KB</td><td>iOS 12 Beta Profile</td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> Android </category>
+          <category> iOS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Typora for Mac</title>
+      <link href="/mac/Typora/"/>
+      <url>/mac/Typora/</url>
+      
+        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Network </tag>
+            <tag> Editor </tag>
             
         </tags>
       
@@ -315,31 +340,6 @@
         <tags>
             
             <tag> Utilities </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Typora for Mac</title>
-      <link href="/mac/Typora/"/>
-      <url>/mac/Typora/</url>
-      
-        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Editor </tag>
             
         </tags>
       
@@ -398,31 +398,6 @@
     
     
     <entry>
-      <title>KMSpico</title>
-      <link href="/windows/KMSpico/"/>
-      <url>/windows/KMSpico/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="https://github.com/charygao/KMSpico_v10.2.0" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2016-06</td><td>4.9MB</td><td><a href="https://img.vim-cn.com/ad/5ea3346daea53916fa66cb814aa98ed7489a1f.zip" rel="external nofollow noopener noreferrer" target="_blank">KMSpico v10.2 免安装版</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Utilities </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Google Chrome for Windows</title>
       <link href="/windows/GoogleChrome/"/>
       <url>/windows/GoogleChrome/</url>
@@ -440,6 +415,31 @@
         <tags>
             
             <tag> Browser </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>KMSpico</title>
+      <link href="/windows/KMSpico/"/>
+      <url>/windows/KMSpico/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="https://github.com/charygao/KMSpico_v10.2.0" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2016-06</td><td>4.9MB</td><td><a href="https://img.vim-cn.com/ad/5ea3346daea53916fa66cb814aa98ed7489a1f.zip" rel="external nofollow noopener noreferrer" target="_blank">KMSpico v10.2 免安装版</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Utilities </tag>
             
         </tags>
       
@@ -523,31 +523,6 @@
     
     
     <entry>
-      <title>Windows 10</title>
-      <link href="/windows/Windows10/"/>
-      <url>/windows/Windows10/</url>
-      
-        <content type="html"><![CDATA[<h2 id="1803"><a href="#1803" class="headerlink" title="1803"></a>1803</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2018-08</td><td>&gt;4GB</td><td>-</td></tr></tbody></table><p>零售版 x64:<br></p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_consumer_edition_version_1803_updated_aug_2018_x64_dvd_2cf38490.iso</span>|<span class="string">5275461632</span>|<span class="string">FAE1391E8F1EEAB7005AE66982FCD27B</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure><p></p><p>商业版 x64:</p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_business_edition_version_1803_updated_aug_2018_x64_dvd_57e5b984.iso</span>|<span class="string">5221404672</span>|<span class="string">DD0094E00A4A1D7FB36D2FBBB82DCAED</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> System </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Typora for Windows</title>
       <link href="/windows/Typora/"/>
       <url>/windows/Typora/</url>
@@ -565,6 +540,31 @@
         <tags>
             
             <tag> Editor </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows 10</title>
+      <link href="/windows/Windows10/"/>
+      <url>/windows/Windows10/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1803"><a href="#1803" class="headerlink" title="1803"></a>1803</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2018-08</td><td>&gt;4GB</td><td>-</td></tr></tbody></table><p>零售版 x64:<br></p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_consumer_edition_version_1803_updated_aug_2018_x64_dvd_2cf38490.iso</span>|<span class="string">5275461632</span>|<span class="string">FAE1391E8F1EEAB7005AE66982FCD27B</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure><p></p><p>商业版 x64:</p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_business_edition_version_1803_updated_aug_2018_x64_dvd_57e5b984.iso</span>|<span class="string">5221404672</span>|<span class="string">DD0094E00A4A1D7FB36D2FBBB82DCAED</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> System </tag>
             
         </tags>
       
