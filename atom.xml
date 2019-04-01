@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://appx.online/"/>
-  <updated>2019-02-22T16:00:00.000Z</updated>
+  <updated>2019-03-29T16:00:00.000Z</updated>
   <id>https://appx.online/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Iconjar</title>
-    <link href="https://appx.online/mac/Iconjar/"/>
-    <id>https://appx.online/mac/Iconjar/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
+    <title>Easy New File</title>
+    <link href="https://appx.online/mac/EasyNewFile/"/>
+    <id>https://appx.online/mac/EasyNewFile/</id>
+    <published>2019-03-29T16:00:00.000Z</published>
+    <updated>2019-03-29T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Design" scheme="https://appx.online/tags/design/"/>
+      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
     
   </entry>
   
   <entry>
-    <title>Lantern</title>
-    <link href="https://appx.online/android/Lantern/"/>
-    <id>https://appx.online/android/Lantern/</id>
+    <title>Sublime Text</title>
+    <link href="https://appx.online/mac/SublimeText/"/>
+    <id>https://appx.online/mac/SublimeText/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -50,20 +50,20 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;&quot;&gt;x
       
     
     </summary>
     
-      <category term="Android" scheme="https://appx.online/categories/android/"/>
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
+      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
     
   </entry>
   
   <entry>
-    <title>Atom</title>
+    <title>Atom for Mac</title>
     <link href="https://appx.online/mac/Atom/"/>
     <id>https://appx.online/mac/Atom/</id>
     <published>2019-02-22T16:00:00.000Z</published>
@@ -78,194 +78,10 @@
     
     </summary>
     
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
       <category term="Editor" scheme="https://appx.online/tags/editor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CleanMyMac X</title>
-    <link href="https://appx.online/mac/CleanMyMacX/"/>
-    <id>https://appx.online/mac/CleanMyMacX/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>IconKit</title>
-    <link href="https://appx.online/mac/IconKit/"/>
-    <id>https://appx.online/mac/IconKit/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Design" scheme="https://appx.online/tags/design/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MacBooster</title>
-    <link href="https://appx.online/mac/MacBooster/"/>
-    <id>https://appx.online/mac/MacBooster/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Microsoft Office for macOS</title>
-    <link href="https://appx.online/mac/MicrosoftOffice/"/>
-    <id>https://appx.online/mac/MicrosoftOffice/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unsafe&quot;&gt;Unknown&lt;div&gt;&lt;
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Office" scheme="https://appx.online/tags/office/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sketch</title>
-    <link href="https://appx.online/mac/Sketch/"/>
-    <id>https://appx.online/mac/Sketch/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Design" scheme="https://appx.online/tags/design/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Typora</title>
-    <link href="https://appx.online/mac/Typora/"/>
-    <id>https://appx.online/mac/Typora/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>iStat Menus</title>
-    <link href="https://appx.online/mac/iStatMenus/"/>
-    <id>https://appx.online/mac/iStatMenus/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lantern</title>
-    <link href="https://appx.online/mac/Lantern/"/>
-    <id>https://appx.online/mac/Lantern/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
-      
-    
-    </summary>
-    
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
-    
-    
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
     
   </entry>
   
@@ -291,9 +107,9 @@
   </entry>
   
   <entry>
-    <title>Sublime Text</title>
-    <link href="https://appx.online/mac/SublimeText/"/>
-    <id>https://appx.online/mac/SublimeText/</id>
+    <title>CleanMyMac X</title>
+    <link href="https://appx.online/mac/CleanMyMacX/"/>
+    <id>https://appx.online/mac/CleanMyMacX/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -301,12 +117,216 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;&quot;&gt;x
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
       
     
     </summary>
     
-      <category term="macOS" scheme="https://appx.online/categories/macos/"/>
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IconKit</title>
+    <link href="https://appx.online/mac/IconKit/"/>
+    <id>https://appx.online/mac/IconKit/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Design" scheme="https://appx.online/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Iconjar</title>
+    <link href="https://appx.online/mac/Iconjar/"/>
+    <id>https://appx.online/mac/Iconjar/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Design" scheme="https://appx.online/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MacBooster</title>
+    <link href="https://appx.online/mac/MacBooster/"/>
+    <id>https://appx.online/mac/MacBooster/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lantern for Mac</title>
+    <link href="https://appx.online/mac/Lantern/"/>
+    <id>https://appx.online/mac/Lantern/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Network" scheme="https://appx.online/tags/network/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft Office for Mac</title>
+    <link href="https://appx.online/mac/MicrosoftOffice/"/>
+    <id>https://appx.online/mac/MicrosoftOffice/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unsafe&quot;&gt;Unknown&lt;div&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Office" scheme="https://appx.online/tags/office/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sketch</title>
+    <link href="https://appx.online/mac/Sketch/"/>
+    <id>https://appx.online/mac/Sketch/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Design" scheme="https://appx.online/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lantern for Android</title>
+    <link href="https://appx.online/android/Lantern/"/>
+    <id>https://appx.online/android/Lantern/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="https://appx.online/categories/android/"/>
+    
+    
+      <category term="Network" scheme="https://appx.online/tags/network/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iStat Menus</title>
+    <link href="https://appx.online/mac/iStatMenus/"/>
+    <id>https://appx.online/mac/iStatMenus/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typora for Mac</title>
+    <link href="https://appx.online/mac/Typora/"/>
+    <id>https://appx.online/mac/Typora/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-03-29T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Download the latest version directly from the official website: &lt;a href=&quot;https://typora.io/download/Typora.dmg&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://typora.io/download/Typora.dmg&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
       <category term="Editor" scheme="https://appx.online/tags/editor/"/>
@@ -314,7 +334,7 @@
   </entry>
   
   <entry>
-    <title>Atom</title>
+    <title>Atom for Windows</title>
     <link href="https://appx.online/windows/Atom/"/>
     <id>https://appx.online/windows/Atom/</id>
     <published>2019-02-22T16:00:00.000Z</published>
@@ -360,29 +380,6 @@
   </entry>
   
   <entry>
-    <title>Google Chrome</title>
-    <link href="https://appx.online/windows/GoogleChrome/"/>
-    <id>https://appx.online/windows/GoogleChrome/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe google&quot;&gt;&lt;a href=
-      
-    
-    </summary>
-    
-      <category term="Windows" scheme="https://appx.online/categories/windows/"/>
-    
-    
-      <category term="Browser" scheme="https://appx.online/tags/browser/"/>
-    
-  </entry>
-  
-  <entry>
     <title>KMSpico</title>
     <link href="https://appx.online/windows/KMSpico/"/>
     <id>https://appx.online/windows/KMSpico/</id>
@@ -406,9 +403,9 @@
   </entry>
   
   <entry>
-    <title>Microsoft Office</title>
-    <link href="https://appx.online/windows/MicrosoftOffice/"/>
-    <id>https://appx.online/windows/MicrosoftOffice/</id>
+    <title>Google Chrome for Windows</title>
+    <link href="https://appx.online/windows/GoogleChrome/"/>
+    <id>https://appx.online/windows/GoogleChrome/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -416,7 +413,7 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe google&quot;&gt;&lt;a href=
       
     
     </summary>
@@ -424,7 +421,30 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Office" scheme="https://appx.online/tags/office/"/>
+      <category term="Browser" scheme="https://appx.online/tags/browser/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lantern for Windows</title>
+    <link href="https://appx.online/windows/Lantern/"/>
+    <id>https://appx.online/windows/Lantern/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
+      
+    
+    </summary>
+    
+      <category term="Windows" scheme="https://appx.online/categories/windows/"/>
+    
+    
+      <category term="Network" scheme="https://appx.online/tags/network/"/>
     
   </entry>
   
@@ -448,29 +468,6 @@
     
     
       <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lantern</title>
-    <link href="https://appx.online/windows/Lantern/"/>
-    <id>https://appx.online/windows/Lantern/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
-      
-    
-    </summary>
-    
-      <category term="Windows" scheme="https://appx.online/categories/windows/"/>
-    
-    
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
     
   </entry>
   
