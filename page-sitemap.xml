@@ -8,15 +8,22 @@
     </url>
     
     <url>
-        <loc>https://appx.online/404.html</loc>
-        <lastmod>2019-04-01T11:14:11.917Z</lastmod>
+        <loc>https://appx.online/include/</loc>
+        <lastmod>2019-04-08T01:05:54.506Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://appx.online/forum/</loc>
-        <lastmod>2019-02-25T02:37:29.880Z</lastmod>
+        <lastmod>2019-04-08T01:05:54.505Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://appx.online/404.html</loc>
+        <lastmod>2019-04-08T01:05:54.492Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

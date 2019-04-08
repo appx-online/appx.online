@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>Material X for Mac</title>
+      <link href="/mac/MaterialX/"/>
+      <url>/mac/MaterialX/</url>
+      
+        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://github.com/xaoxuu/MaterialX-Mac/releases/download/1.0.0/MaterialX-Installer.dmg" rel="external nofollow noopener noreferrer" target="_blank">MaterialX-Installer.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://github.com/xaoxuu/MaterialX-Mac/releases" rel="external nofollow noopener noreferrer" target="_blank">https://github.com/xaoxuu/MaterialX-Mac/releases</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td>xaoxuu.com</td><td>2019-04-05</td><td>5.12MB</td><td><a href="https://github.com/xaoxuu/MaterialX-Mac/releases/download/1.0.0/MaterialX-Installer.dmg" rel="external nofollow noopener noreferrer" target="_blank">MaterialX-Installer.dmg</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 开源 </tag>
+            
+            <tag> 文档 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GoogleTranslate for Mac</title>
+      <link href="/mac/GoogleTranslate/"/>
+      <url>/mac/GoogleTranslate/</url>
+      
+        <content type="html"><![CDATA[<p>GoogleTranslate for Mac 谷歌翻译的Mac客户端，固定在MenuBar上方便使用。</p><p>官方来源最新版本1.0.0：<a href="https://github.com/xaoxuu/GoogleTranslate-Mac/releases/download/1.0.0/GoogleTranslate.dmg" rel="external nofollow noopener noreferrer" target="_blank">GoogleTranslate-Installer.dmg</a></p><a id="more"></a><h2 id="官方网站"><a href="#官方网站" class="headerlink" title="官方网站"></a>官方网站</h2><p>Google Translate的官网: <a href="https://translate.google.cn/" rel="external nofollow noopener noreferrer" target="_blank">https://translate.google.cn/</a></p><p>GoogleTranslate for Mac客户端开源项目: <a href="https://github.com/xaoxuu/GoogleTranslate-Mac" rel="external nofollow noopener noreferrer" target="_blank">https://github.com/xaoxuu/GoogleTranslate-Mac</a></p><h2 id="历史版本"><a href="#历史版本" class="headerlink" title="历史版本"></a>历史版本</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://xaoxuu.com" target="_blank" rel="noopener">xaoxuu.com</a></td><td>2019-04-05</td><td>3.96MB</td><td><a href="https://github.com/xaoxuu/GoogleTranslate-Mac/releases/download/1.0.0/GoogleTranslate.dmg" rel="external nofollow noopener noreferrer" target="_blank">GoogleTranslate-Installer.dmg</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 开源 </tag>
+            
+            <tag> 实用工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Easy New File</title>
       <link href="/mac/EasyNewFile/"/>
       <url>/mac/EasyNewFile/</url>
@@ -20,57 +74,7 @@
       
         <tags>
             
-            <tag> Editor </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Sublime Text</title>
-      <link href="/mac/SublimeText/"/>
-      <url>/mac/SublimeText/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="">xclient.info</a></div></td><td>2018-05-16</td><td>13.1MB</td><td><a href="https://img.vim-cn.com/61/8f2a3a655c369e1101c55aad14e49914f61e8f.zip" rel="external nofollow noopener noreferrer" target="_blank">3.1.1 Build3176</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Editor </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Atom for Mac</title>
-      <link href="/mac/Atom/"/>
-      <url>/mac/Atom/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Editor </tag>
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -95,32 +99,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Lantern for Android</title>
-      <link href="/android/Lantern/"/>
-      <url>/android/Lantern/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>34.2MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.apk</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Android </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Network </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -145,7 +124,7 @@
       
         <tags>
             
-            <tag> Design </tag>
+            <tag> 设计 </tag>
             
         </tags>
       
@@ -154,23 +133,23 @@
     
     
     <entry>
-      <title>Iconjar</title>
-      <link href="/mac/Iconjar/"/>
-      <url>/mac/Iconjar/</url>
+      <title>Lantern for Android</title>
+      <link href="/android/Lantern/"/>
+      <url>/android/Lantern/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>34.2MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.apk</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> Mac </category>
+          <category> Android </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Design </tag>
+            <tag> 网络工具 </tag>
             
         </tags>
       
@@ -195,7 +174,32 @@
       
         <tags>
             
-            <tag> Network </tag>
+            <tag> 网络工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Iconjar</title>
+      <link href="/mac/Iconjar/"/>
+      <url>/mac/Iconjar/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 设计 </tag>
             
         </tags>
       
@@ -220,7 +224,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -245,7 +249,7 @@
       
         <tags>
             
-            <tag> Office </tag>
+            <tag> 办公 </tag>
             
         </tags>
       
@@ -270,7 +274,7 @@
       
         <tags>
             
-            <tag> Design </tag>
+            <tag> 设计 </tag>
             
         </tags>
       
@@ -279,30 +283,11 @@
     
     
     <entry>
-      <title>iOS Beta Profile</title>
-      <link href="/ios/index/"/>
-      <url>/ios/index/</url>
+      <title>Sublime Text</title>
+      <link href="/mac/SublimeText/"/>
+      <url>/mac/SublimeText/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://developer.apple.com/download/" rel="external nofollow noopener noreferrer" target="_blank">Apple Inc</a></td><td>2018-06-09</td><td>9KB</td><td>iOS 12 Beta Profile</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> iOS </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Typora for Mac</title>
-      <link href="/mac/Typora/"/>
-      <url>/mac/Typora/</url>
-      
-        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="">xclient.info</a></div></td><td>2018-05-16</td><td>13.1MB</td><td><a href="https://img.vim-cn.com/61/8f2a3a655c369e1101c55aad14e49914f61e8f.zip" rel="external nofollow noopener noreferrer" target="_blank">3.1.1 Build3176</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -314,7 +299,32 @@
       
         <tags>
             
-            <tag> Editor </tag>
+            <tag> 编辑器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Atom for Mac</title>
+      <link href="/mac/Atom/"/>
+      <url>/mac/Atom/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -339,7 +349,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -364,7 +374,7 @@
       
         <tags>
             
-            <tag> Editor </tag>
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -389,7 +399,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -414,7 +424,7 @@
       
         <tags>
             
-            <tag> Browser </tag>
+            <tag> 浏览器 </tag>
             
         </tags>
       
@@ -439,7 +449,7 @@
       
         <tags>
             
-            <tag> Utilities </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -464,32 +474,7 @@
       
         <tags>
             
-            <tag> Network </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>MATLAB</title>
-      <link href="/windows/MATLAB/"/>
-      <url>/windows/MATLAB/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unsafe">Unknown</div></td><td>Unknown</td><td>6.3MB</td><td><a href="https://img.vim-cn.com/23/5aa44945f08a93eebd3ba2cc7f3bc221a5a118.zip" rel="external nofollow noopener noreferrer" target="_blank">5.3 精简版</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Utilities </tag>
+            <tag> 网络工具 </tag>
             
         </tags>
       
@@ -514,7 +499,32 @@
       
         <tags>
             
-            <tag> Office </tag>
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MATLAB</title>
+      <link href="/windows/MATLAB/"/>
+      <url>/windows/MATLAB/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unsafe">Unknown</div></td><td>Unknown</td><td>6.3MB</td><td><a href="https://img.vim-cn.com/23/5aa44945f08a93eebd3ba2cc7f3bc221a5a118.zip" rel="external nofollow noopener noreferrer" target="_blank">5.3 精简版</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分析计算 </tag>
             
         </tags>
       
@@ -539,7 +549,7 @@
       
         <tags>
             
-            <tag> Editor </tag>
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -564,7 +574,57 @@
       
         <tags>
             
-            <tag> System </tag>
+            <tag> 操作系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iOS Beta Profile</title>
+      <link href="/ios/index/"/>
+      <url>/ios/index/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://developer.apple.com/download/" rel="external nofollow noopener noreferrer" target="_blank">Apple Inc</a></td><td>2018-06-09</td><td>9KB</td><td>iOS 12 Beta Profile</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> iOS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 描述文件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Typora for Mac</title>
+      <link href="/mac/Typora/"/>
+      <url>/mac/Typora/</url>
+      
+        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
             
         </tags>
       

@@ -6,15 +6,59 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://appx.online/"/>
-  <updated>2019-03-29T16:00:00.000Z</updated>
+  <updated>2019-04-06T16:00:00.000Z</updated>
   <id>https://appx.online/</id>
   
   <author>
-    <name>appx.online</name>
+    <name>Mr.X ?</name>
     <email>me@xaoxuu.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Material X for Mac</title>
+    <link href="https://appx.online/mac/MaterialX/"/>
+    <id>https://appx.online/mac/MaterialX/</id>
+    <published>2019-04-06T16:00:00.000Z</published>
+    <updated>2019-04-06T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Download the latest version directly from the official website: &lt;a href=&quot;https://github.com/xaoxuu/MaterialX-Mac/releases/download/1.0.0/MaterialX-Installer.dmg&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;MaterialX-Installer.dmg&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="开源" scheme="https://appx.online/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="文档" scheme="https://appx.online/tags/%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GoogleTranslate for Mac</title>
+    <link href="https://appx.online/mac/GoogleTranslate/"/>
+    <id>https://appx.online/mac/GoogleTranslate/</id>
+    <published>2019-04-06T16:00:00.000Z</published>
+    <updated>2019-04-07T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;GoogleTranslate for Mac 谷歌翻译的Mac客户端，固定在MenuBar上方便使用。&lt;/p&gt;&lt;p&gt;官方来源最新版本1.0.0：&lt;a href=&quot;https://github.com/xaoxuu/GoogleTranslate-Mac/releases/download/1.0.0/GoogleTranslate.dmg&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;GoogleTranslate-Installer.dmg&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="开源" scheme="https://appx.online/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="实用工具" scheme="https://appx.online/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Easy New File</title>
@@ -35,53 +79,7 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sublime Text</title>
-    <link href="https://appx.online/mac/SublimeText/"/>
-    <id>https://appx.online/mac/SublimeText/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;&quot;&gt;x
-      
-    
-    </summary>
-    
-      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
-    
-    
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Atom for Mac</title>
-    <link href="https://appx.online/mac/Atom/"/>
-    <id>https://appx.online/mac/Atom/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;http:/
-      
-    
-    </summary>
-    
-      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
-    
-    
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
+      <category term="编辑器" scheme="https://appx.online/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
@@ -104,30 +102,7 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lantern for Android</title>
-    <link href="https://appx.online/android/Lantern/"/>
-    <id>https://appx.online/android/Lantern/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-02-22T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
-      
-    
-    </summary>
-    
-      <category term="Android" scheme="https://appx.online/categories/android/"/>
-    
-    
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
+      <category term="系统工具" scheme="https://appx.online/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -150,14 +125,14 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Design" scheme="https://appx.online/tags/design/"/>
+      <category term="设计" scheme="https://appx.online/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
-    <title>Iconjar</title>
-    <link href="https://appx.online/mac/Iconjar/"/>
-    <id>https://appx.online/mac/Iconjar/</id>
+    <title>Lantern for Android</title>
+    <link href="https://appx.online/android/Lantern/"/>
+    <id>https://appx.online/android/Lantern/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -165,15 +140,15 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;https:
       
     
     </summary>
     
-      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+      <category term="Android" scheme="https://appx.online/categories/android/"/>
     
     
-      <category term="Design" scheme="https://appx.online/tags/design/"/>
+      <category term="网络工具" scheme="https://appx.online/tags/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -196,7 +171,30 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
+      <category term="网络工具" scheme="https://appx.online/tags/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Iconjar</title>
+    <link href="https://appx.online/mac/Iconjar/"/>
+    <id>https://appx.online/mac/Iconjar/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="设计" scheme="https://appx.online/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -219,7 +217,7 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+      <category term="系统工具" scheme="https://appx.online/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -242,7 +240,7 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Office" scheme="https://appx.online/tags/office/"/>
+      <category term="办公" scheme="https://appx.online/tags/%E5%8A%9E%E5%85%AC/"/>
     
   </entry>
   
@@ -265,14 +263,14 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Design" scheme="https://appx.online/tags/design/"/>
+      <category term="设计" scheme="https://appx.online/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
-    <title>iOS Beta Profile</title>
-    <link href="https://appx.online/ios/index/"/>
-    <id>https://appx.online/ios/index/</id>
+    <title>Sublime Text</title>
+    <link href="https://appx.online/mac/SublimeText/"/>
+    <id>https://appx.online/mac/SublimeText/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -280,33 +278,38 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://developer.apple.
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;&quot;&gt;x
       
-    
-    </summary>
-    
-      <category term="iOS" scheme="https://appx.online/categories/ios/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Typora for Mac</title>
-    <link href="https://appx.online/mac/Typora/"/>
-    <id>https://appx.online/mac/Typora/</id>
-    <published>2019-02-22T16:00:00.000Z</published>
-    <updated>2019-03-29T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Download the latest version directly from the official website: &lt;a href=&quot;https://typora.io/download/Typora.dmg&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://typora.io/download/Typora.dmg&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
+      <category term="编辑器" scheme="https://appx.online/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Atom for Mac</title>
+    <link href="https://appx.online/mac/Atom/"/>
+    <id>https://appx.online/mac/Atom/</id>
+    <published>2019-02-22T16:00:00.000Z</published>
+    <updated>2019-02-22T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;safe&quot;&gt;&lt;a href=&quot;http:/
+      
+    
+    </summary>
+    
+      <category term="Mac" scheme="https://appx.online/categories/mac/"/>
+    
+    
+      <category term="编辑器" scheme="https://appx.online/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
@@ -329,7 +332,7 @@
       <category term="Mac" scheme="https://appx.online/categories/mac/"/>
     
     
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+      <category term="系统工具" scheme="https://appx.online/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -352,7 +355,7 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Editor" scheme="https://appx.online/tags/editor/"/>
+      <category term="编辑器" scheme="https://appx.online/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
@@ -375,7 +378,7 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+      <category term="系统工具" scheme="https://appx.online/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -398,7 +401,7 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Browser" scheme="https://appx.online/tags/browser/"/>
+      <category term="浏览器" scheme="https://appx.online/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
     
   </entry>
   
@@ -421,7 +424,7 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+      <category term="系统工具" scheme="https://appx.online/tags/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -444,14 +447,14 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Network" scheme="https://appx.online/tags/network/"/>
+      <category term="网络工具" scheme="https://appx.online/tags/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
-    <title>MATLAB</title>
-    <link href="https://appx.online/windows/MATLAB/"/>
-    <id>https://appx.online/windows/MATLAB/</id>
+    <title>Microsoft Office for Windows</title>
+    <link href="https://appx.online/windows/MicrosoftOffice/"/>
+    <id>https://appx.online/windows/MicrosoftOffice/</id>
     <published>2019-02-22T16:00:00.000Z</published>
     <updated>2019-02-22T16:00:00.000Z</updated>
     
@@ -459,7 +462,7 @@
     
       
       
-        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unsafe&quot;&gt;Unknown&lt;/div&gt;
+        &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Updated&lt;/th&gt;&lt;th&gt;Size&lt;/th&gt;&lt;th&gt;Download&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;unknown&quot;&gt;&lt;a href=&quot;htt
       
     
     </summary>
@@ -467,7 +470,7 @@
       <category term="Windows" scheme="https://appx.online/categories/windows/"/>
     
     
-      <category term="Utilities" scheme="https://appx.online/tags/utilities/"/>
+      <category term="办公" scheme="https://appx.online/tags/%E5%8A%9E%E5%85%AC/"/>
     
   </entry>
   

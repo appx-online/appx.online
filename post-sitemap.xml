@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://appx.online/mac/GoogleTranslate/</loc>
+        <lastmod>2019-04-07T16:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://appx.online/mac/MaterialX/</loc>
+        <lastmod>2019-04-06T16:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://appx.online/mac/EasyNewFile/</loc>
         <lastmod>2019-03-29T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,22 +34,6 @@
     <url>
         <loc>https://appx.online/mac/Typora/</loc>
         <lastmod>2019-03-29T16:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://appx.online/android/Lantern/</loc>
-        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://appx.online/ios/index/</loc>
-        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Iconjar/</loc>
+        <loc>https://appx.online/mac/Lantern/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Lantern/</loc>
+        <loc>https://appx.online/mac/Iconjar/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -160,7 +160,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/MATLAB/</loc>
+        <loc>https://appx.online/windows/MicrosoftOffice/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -168,7 +168,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/MicrosoftOffice/</loc>
+        <loc>https://appx.online/windows/MATLAB/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -185,6 +185,22 @@
 
     <url>
         <loc>https://appx.online/windows/Windows10/</loc>
+        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://appx.online/ios/index/</loc>
+        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://appx.online/android/Lantern/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
