@@ -108,36 +108,11 @@
     
     
     <entry>
-      <title>Typora for Mac</title>
-      <link href="/mac/Typora/"/>
-      <url>/mac/Typora/</url>
+      <title>Sketch</title>
+      <link href="/mac/Sketch/"/>
+      <url>/mac/Sketch/</url>
       
-        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 编辑器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CleanMyMac X</title>
-      <link href="/mac/CleanMyMacX/"/>
-      <url>/mac/CleanMyMacX/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://dl.devmate.com/com.macpaw.CleanMyMac4/CleanMyMacX.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac X</a></td></tr><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac-3" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>34.6MB</td><td><a href="https://dl.devmate.com/com.macpaw.zh.CleanMyMac3/CleanMyMacChinese.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac 3</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/sketch.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-09-11</td><td>35.6MB</td><td><a href="https://img.vim-cn.com/9e/321d19945e496f6af79e430c2c6c0eff00ad02.zip" rel="external nofollow noopener noreferrer" target="_blank">51.3</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -149,7 +124,7 @@
       
         <tags>
             
-            <tag> 系统工具 </tag>
+            <tag> 设计 </tag>
             
         </tags>
       
@@ -175,6 +150,31 @@
         <tags>
             
             <tag> 设计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Atom for Mac</title>
+      <link href="/mac/Atom/"/>
+      <url>/mac/Atom/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -258,23 +258,23 @@
     
     
     <entry>
-      <title>iOS Beta Profile</title>
-      <link href="/ios/index/"/>
-      <url>/ios/index/</url>
+      <title>CleanMyMac X</title>
+      <link href="/mac/CleanMyMacX/"/>
+      <url>/mac/CleanMyMacX/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://developer.apple.com/download/" rel="external nofollow noopener noreferrer" target="_blank">Apple Inc</a></td><td>2018-06-09</td><td>9KB</td><td>iOS 12 Beta Profile</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://dl.devmate.com/com.macpaw.CleanMyMac4/CleanMyMacX.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac X</a></td></tr><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac-3" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>34.6MB</td><td><a href="https://dl.devmate.com/com.macpaw.zh.CleanMyMac3/CleanMyMacChinese.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac 3</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> iOS </category>
+          <category> Mac </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 描述文件 </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -308,11 +308,11 @@
     
     
     <entry>
-      <title>Sketch</title>
-      <link href="/mac/Sketch/"/>
-      <url>/mac/Sketch/</url>
+      <title>Sublime Text</title>
+      <link href="/mac/SublimeText/"/>
+      <url>/mac/SublimeText/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/sketch.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-09-11</td><td>35.6MB</td><td><a href="https://img.vim-cn.com/9e/321d19945e496f6af79e430c2c6c0eff00ad02.zip" rel="external nofollow noopener noreferrer" target="_blank">51.3</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="">xclient.info</a></div></td><td>2018-05-16</td><td>13.1MB</td><td><a href="https://img.vim-cn.com/61/8f2a3a655c369e1101c55aad14e49914f61e8f.zip" rel="external nofollow noopener noreferrer" target="_blank">3.1.1 Build3176</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -324,7 +324,7 @@
       
         <tags>
             
-            <tag> 设计 </tag>
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -333,23 +333,48 @@
     
     
     <entry>
-      <title>Lantern for Android</title>
-      <link href="/android/Lantern/"/>
-      <url>/android/Lantern/</url>
+      <title>iOS Beta Profile</title>
+      <link href="/ios/index/"/>
+      <url>/ios/index/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>34.2MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.apk</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><a href="https://developer.apple.com/download/" rel="external nofollow noopener noreferrer" target="_blank">Apple Inc</a></td><td>2018-06-09</td><td>9KB</td><td>iOS 12 Beta Profile</td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> Android </category>
+          <category> iOS </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 网络工具 </tag>
+            <tag> 描述文件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Typora for Mac</title>
+      <link href="/mac/Typora/"/>
+      <url>/mac/Typora/</url>
+      
+        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
             
         </tags>
       
@@ -458,31 +483,6 @@
     
     
     <entry>
-      <title>KMSpico</title>
-      <link href="/windows/KMSpico/"/>
-      <url>/windows/KMSpico/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="https://github.com/charygao/KMSpico_v10.2.0" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2016-06</td><td>4.9MB</td><td><a href="https://img.vim-cn.com/ad/5ea3346daea53916fa66cb814aa98ed7489a1f.zip" rel="external nofollow noopener noreferrer" target="_blank">KMSpico v10.2 免安装版</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 系统工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Lantern for Windows</title>
       <link href="/windows/Lantern/"/>
       <url>/windows/Lantern/</url>
@@ -500,6 +500,31 @@
         <tags>
             
             <tag> 网络工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>KMSpico</title>
+      <link href="/windows/KMSpico/"/>
+      <url>/windows/KMSpico/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="https://github.com/charygao/KMSpico_v10.2.0" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2016-06</td><td>4.9MB</td><td><a href="https://img.vim-cn.com/ad/5ea3346daea53916fa66cb814aa98ed7489a1f.zip" rel="external nofollow noopener noreferrer" target="_blank">KMSpico v10.2 免安装版</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -533,31 +558,6 @@
     
     
     <entry>
-      <title>Sublime Text</title>
-      <link href="/mac/SublimeText/"/>
-      <url>/mac/SublimeText/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="">xclient.info</a></div></td><td>2018-05-16</td><td>13.1MB</td><td><a href="https://img.vim-cn.com/61/8f2a3a655c369e1101c55aad14e49914f61e8f.zip" rel="external nofollow noopener noreferrer" target="_blank">3.1.1 Build3176</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 编辑器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Microsoft Office for Windows</title>
       <link href="/windows/MicrosoftOffice/"/>
       <url>/windows/MicrosoftOffice/</url>
@@ -583,23 +583,23 @@
     
     
     <entry>
-      <title>Atom for Mac</title>
-      <link href="/mac/Atom/"/>
-      <url>/mac/Atom/</url>
+      <title>Lantern for Android</title>
+      <link href="/android/Lantern/"/>
+      <url>/android/Lantern/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="http://atom.io" rel="external nofollow noopener noreferrer" target="_blank">Atom</a></div></td><td>2018-08</td><td>139MB</td><td><a href="https://github.com/atom/atom/releases/download/v1.30.0/atom-mac.zip" rel="external nofollow noopener noreferrer" target="_blank">1.30.0</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://github.com/getlantern/download/wiki" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a></div></td><td>2018-09</td><td>34.2MB</td><td><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="external nofollow noopener noreferrer" target="_blank">lantern-installer.apk</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
           
-          <category> Mac </category>
+          <category> Android </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 编辑器 </tag>
+            <tag> 网络工具 </tag>
             
         </tags>
       
