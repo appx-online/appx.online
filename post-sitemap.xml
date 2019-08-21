@@ -56,6 +56,14 @@
     </url>
 
     <url>
+        <loc>https://appx.online/ios/index/</loc>
+        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://appx.online/android/Lantern/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -64,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/Atom/</loc>
+        <loc>https://appx.online/mac/CleanMyMacX/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/CleanMyMacX/</loc>
+        <loc>https://appx.online/mac/Atom/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,14 +136,6 @@
     </url>
 
     <url>
-        <loc>https://appx.online/mac/SublimeText/</loc>
-        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://appx.online/mac/iStatMenus/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,6 +145,14 @@
 
     <url>
         <loc>https://appx.online/windows/Atom/</loc>
+        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://appx.online/windows/GHOST/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -168,14 +176,6 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/GHOST/</loc>
-        <lastmod>2019-02-22T16:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://appx.online/windows/Lantern/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/windows/MicrosoftOffice/</loc>
+        <loc>https://appx.online/mac/SublimeText/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -200,7 +200,7 @@
     </url>
 
     <url>
-        <loc>https://appx.online/ios/index/</loc>
+        <loc>https://appx.online/windows/MicrosoftOffice/</loc>
         <lastmod>2019-02-22T16:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
