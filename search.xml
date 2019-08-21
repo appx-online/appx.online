@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>NEXUS</title>
+      <link href="/windows/NEXUS/"/>
+      <url>/windows/NEXUS/</url>
+      
+        <content type="html"><![CDATA[<ul><li>下载安装包： <a href="https://github.com/xaoxuu/NEXUS/releases/download/v6.3/NEXUS-setup.exe" rel="external nofollow noopener noreferrer" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> NEXUS-setup.exe</a></li><li>下载扩展包： <a href="https://github.com/TitanStudio/NEXUS/releases/download/v6.2/Extension20160207.exe" rel="external nofollow noopener noreferrer" target="_blank"><i class="fas fa-cubes" aria-hidden="true"></i> Extension20160207.exe</a></li></ul><a id="more"></a><p>简单地说，就如同电脑管家+快捷搜索+激活工具集锦+……<br>NEXUS（魔枢）意为联接、沟通，在《魔兽》里翻译为魔枢，《星际迷航》里翻译为时汇。软件以此为名旨在连通问题与答案，终极目标即输入任何问题或需求，即可一步达到目的，成为一个信息的枢纽。<br>魔枢的方便之处在于：点击屏幕左上角，即可呼出搜索栏，此搜索栏对于一些常用的网站如[优酷]、[淘宝]等等可以直达官网，省去了搜索引擎检索的步骤。左上角热键是透明的，不影响视觉，只有在允许魔枢后台运行时才会生效。</p><fancybox><br><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="https://img.vim-cn.com/86/218934d015453ee1e7fe3b19f92a3238c8552f.png" alt=""><br></fancybox><fancybox><br><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="https://img.vim-cn.com/76/8aa3ad8994cb5991608f647f083592c9d9b230.png" alt=""><br><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="https://img.vim-cn.com/47/aed4572cf2d4d6ace5e7be2523be7cc9bcfc65.png" alt=""><br><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="https://img.vim-cn.com/c6/2a00a6361c048b4cec201d84cac9d5cd6c5164.png" alt=""><br><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="https://img.vim-cn.com/71/10005d574ccfe87bd0b31ad7d9820ec5d505f2.png" alt=""><br></fancybox><p>遗憾的是：目前，NEXUS只适用于 Windows 7~10 平台的用户。</p><h2 id="开始使用"><a href="#开始使用" class="headerlink" title="开始使用"></a><i class="fas fa-play-circle fa-fw" aria-hidden="true"></i>开始使用</h2><ul><li>下载安装包： <a href="https://github.com/xaoxuu/NEXUS/releases/download/v6.3/NEXUS-setup.exe" rel="external nofollow noopener noreferrer" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> NEXUS-setup.exe</a></li><li>下载扩展包： <a href="https://github.com/TitanStudio/NEXUS/releases/download/v6.2/Extension20160207.exe" rel="external nofollow noopener noreferrer" target="_blank"><i class="fas fa-cubes" aria-hidden="true"></i> Extension20160207.exe</a></li></ul><h2 id="源码"><a href="#源码" class="headerlink" title="源码"></a><i class="fas fa-code-branch fa-fw" aria-hidden="true"></i>源码</h2><div class="readmore space"><a href="https://github.com/xaoxuu/NEXUS/" rel="external nofollow noopener noreferrer" target="_blank"><i class="fab fa-github"></i>源码</a></div><h2 id="已归档！"><a href="#已归档！" class="headerlink" title="已归档！"></a><i class="fas fa-archive fa-fw" aria-hidden="true"></i>已归档！</h2><p>这是一个已经归档的项目，最后一次更新时间是在2017年1月。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实用工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Material X for Mac</title>
       <link href="/mac/MaterialX/"/>
       <url>/mac/MaterialX/</url>
@@ -83,11 +108,11 @@
     
     
     <entry>
-      <title>CleanMyMac X</title>
-      <link href="/mac/CleanMyMacX/"/>
-      <url>/mac/CleanMyMacX/</url>
+      <title>IconKit</title>
+      <link href="/mac/IconKit/"/>
+      <url>/mac/IconKit/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://dl.devmate.com/com.macpaw.CleanMyMac4/CleanMyMacX.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac X</a></td></tr><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac-3" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>34.6MB</td><td><a href="https://dl.devmate.com/com.macpaw.zh.CleanMyMac3/CleanMyMacChinese.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac 3</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconkit.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2017-10-19</td><td>951KB</td><td><a href="https://img.vim-cn.com/24/a42106ba9e592869dc2293da2c04b11bf7657d.zip" rel="external nofollow noopener noreferrer" target="_blank">9.0</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -99,7 +124,7 @@
       
         <tags>
             
-            <tag> 系统工具 </tag>
+            <tag> 设计 </tag>
             
         </tags>
       
@@ -108,11 +133,11 @@
     
     
     <entry>
-      <title>IconKit</title>
-      <link href="/mac/IconKit/"/>
-      <url>/mac/IconKit/</url>
+      <title>Iconjar</title>
+      <link href="/mac/Iconjar/"/>
+      <url>/mac/Iconjar/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconkit.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2017-10-19</td><td>951KB</td><td><a href="https://img.vim-cn.com/24/a42106ba9e592869dc2293da2c04b11bf7657d.zip" rel="external nofollow noopener noreferrer" target="_blank">9.0</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -175,31 +200,6 @@
         <tags>
             
             <tag> 网络工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Iconjar</title>
-      <link href="/mac/Iconjar/"/>
-      <url>/mac/Iconjar/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/iconjar.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-03</td><td>8.2MB</td><td><a href="https://img.vim-cn.com/1c/5a2f2a6440ddc7f419c8fe280e9d14294fadc6.zip" rel="external nofollow noopener noreferrer" target="_blank">1.10.1</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 设计 </tag>
             
         </tags>
       
@@ -308,6 +308,31 @@
     
     
     <entry>
+      <title>Typora for Mac</title>
+      <link href="/mac/Typora/"/>
+      <url>/mac/Typora/</url>
+      
+        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Atom for Mac</title>
       <link href="/mac/Atom/"/>
       <url>/mac/Atom/</url>
@@ -333,31 +358,6 @@
     
     
     <entry>
-      <title>iStat Menus</title>
-      <link href="/mac/iStatMenus/"/>
-      <url>/mac/iStatMenus/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/istat-menus-for-mac.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-24</td><td>22.6MB</td><td><a href="https://img.vim-cn.com/39/ccff2532ab959f8cbb19141fd2f1aa0be83566.zip" rel="external nofollow noopener noreferrer" target="_blank">6.21</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mac </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 系统工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Atom for Windows</title>
       <link href="/windows/Atom/"/>
       <url>/windows/Atom/</url>
@@ -375,31 +375,6 @@
         <tags>
             
             <tag> 编辑器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>GHOST</title>
-      <link href="/windows/GHOST/"/>
-      <url>/windows/GHOST/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unsafe">Unknown</div></td><td>Unknown</td><td>4MB</td><td><a href="https://img.vim-cn.com/ae/5d53747d223978a13e37dd25ce22d9a86133aa.zip" rel="external nofollow noopener noreferrer" target="_blank">免安装版</a></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -458,6 +433,31 @@
     
     
     <entry>
+      <title>GHOST</title>
+      <link href="/windows/GHOST/"/>
+      <url>/windows/GHOST/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unsafe">Unknown</div></td><td>Unknown</td><td>4MB</td><td><a href="https://img.vim-cn.com/ae/5d53747d223978a13e37dd25ce22d9a86133aa.zip" rel="external nofollow noopener noreferrer" target="_blank">免安装版</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 系统工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Lantern for Windows</title>
       <link href="/windows/Lantern/"/>
       <url>/windows/Lantern/</url>
@@ -475,31 +475,6 @@
         <tags>
             
             <tag> 网络工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Microsoft Office for Windows</title>
-      <link href="/windows/MicrosoftOffice/"/>
-      <url>/windows/MicrosoftOffice/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2016</td><td>2.41GB</td><td>-</td></tr></tbody></table><p>Office 2016 x86 x64:</p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso</span>|<span class="string">2588266496</span>|<span class="string">27EEA4FE4BB13CD0ECCDFC24167F9E01</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 办公 </tag>
             
         </tags>
       
@@ -533,11 +508,11 @@
     
     
     <entry>
-      <title>Typora for Windows</title>
-      <link href="/windows/Typora/"/>
-      <url>/windows/Typora/</url>
+      <title>Microsoft Office for Windows</title>
+      <link href="/windows/MicrosoftOffice/"/>
+      <url>/windows/MicrosoftOffice/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://typora.io/windows/typora-setup-x64.exe?" rel="external nofollow noopener noreferrer" target="_blank">beta x64</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2016</td><td>2.41GB</td><td>-</td></tr></tbody></table><p>Office 2016 x86 x64:</p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso</span>|<span class="string">2588266496</span>|<span class="string">27EEA4FE4BB13CD0ECCDFC24167F9E01</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -549,7 +524,32 @@
       
         <tags>
             
-            <tag> 编辑器 </tag>
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CleanMyMac X</title>
+      <link href="/mac/CleanMyMacX/"/>
+      <url>/mac/CleanMyMacX/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://dl.devmate.com/com.macpaw.CleanMyMac4/CleanMyMacX.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac X</a></td></tr><tr><td><div class="safe"><a href="https://macpaw.com/cleanmymac-3" rel="external nofollow noopener noreferrer" target="_blank">MacPaw</a></div></td><td>2018-09</td><td>34.6MB</td><td><a href="https://dl.devmate.com/com.macpaw.zh.CleanMyMac3/CleanMyMacChinese.dmg" rel="external nofollow noopener noreferrer" target="_blank">CleanMyMac 3</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mac </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 系统工具 </tag>
             
         </tags>
       
@@ -562,7 +562,7 @@
       <link href="/windows/Windows10/"/>
       <url>/windows/Windows10/</url>
       
-        <content type="html"><![CDATA[<h2 id="1803"><a href="#1803" class="headerlink" title="1803"></a>1803</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2018-08</td><td>&gt;4GB</td><td>-</td></tr></tbody></table><p>零售版 x64:<br></p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_consumer_edition_version_1803_updated_aug_2018_x64_dvd_2cf38490.iso</span>|<span class="string">5275461632</span>|<span class="string">FAE1391E8F1EEAB7005AE66982FCD27B</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure><p></p><p>商业版 x64:</p><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_business_edition_version_1803_updated_aug_2018_x64_dvd_57e5b984.iso</span>|<span class="string">5221404672</span>|<span class="string">DD0094E00A4A1D7FB36D2FBBB82DCAED</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p><strong>Windows 10 Business Editions version 1903 (x64)</strong></p><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2019-04-19</td><td>4.48GB</td></tr></tbody></table><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_business_editions_version_1903_x64_dvd_e001dd2c.iso</span>|<span class="string">4815527936</span>|<span class="string">47D4C57E638DF8BF74C59261E2CE702D</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure><hr><p><strong>Windows 10 Consumer Editions version 1903 (x64)</strong></p><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2019-04-19</td><td>4.57GB</td></tr></tbody></table><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso</span>|<span class="string">4905476096</span>|<span class="string">F28FDC23DA34D55BA466BFD6E91DD311</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure><a id="more"></a><hr><p><strong>Windows 10 Business Editions version 1803 (x64)</strong></p><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2018-08</td><td>&gt; 4GB</td></tr></tbody></table><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_business_edition_version_1803_updated_aug_2018_x64_dvd_57e5b984.iso</span>|<span class="string">5221404672</span>|<span class="string">DD0094E00A4A1D7FB36D2FBBB82DCAED</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure><hr><p><strong>Windows 10 Consumer Editions version 1803 (x64)</strong></p><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://msdn.itellyou.cn/" rel="external nofollow noopener noreferrer" target="_blank">MSDN</a></div></td><td>2018-08</td><td>&gt; 4GB</td></tr></tbody></table><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|<span class="string">file</span>|<span class="string">cn_windows_10_consumer_edition_version_1803_updated_aug_2018_x64_dvd_2cf38490.iso</span>|<span class="string">5275461632</span>|<span class="string">FAE1391E8F1EEAB7005AE66982FCD27B</span>|<span class="string">/</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -608,11 +608,36 @@
     
     
     <entry>
-      <title>Typora for Mac</title>
-      <link href="/mac/Typora/"/>
-      <url>/mac/Typora/</url>
+      <title>Typora for Windows</title>
+      <link href="/windows/Typora/"/>
+      <url>/windows/Typora/</url>
       
-        <content type="html"><![CDATA[<p>Download the latest version directly from the official website: <a href="https://typora.io/download/Typora.dmg" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io/download/Typora.dmg</a></p><a id="more"></a><h2 id="Official-Website"><a href="#Official-Website" class="headerlink" title="Official Website"></a>Official Website</h2><p><a href="https://typora.io" rel="external nofollow noopener noreferrer" target="_blank">https://typora.io</a></p><h2 id="Previous-Versions"><a href="#Previous-Versions" class="headerlink" title="Previous Versions"></a>Previous Versions</h2><table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">typora.io</a></div></td><td>2019-03</td><td>11MB</td><td><a href="https://img.vim-cn.com/0a/abd06a5fa2d9eb156d59c09302b0e88aefdab8" rel="external nofollow noopener noreferrer" target="_blank">0.9.9.23.4</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="safe"><a href="https://typora.io/" rel="external nofollow noopener noreferrer" target="_blank">Typora</a></div></td><td>2018-09</td><td>66.3MB</td><td><a href="https://typora.io/windows/typora-setup-x64.exe?" rel="external nofollow noopener noreferrer" target="_blank">beta x64</a></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iStat Menus</title>
+      <link href="/mac/iStatMenus/"/>
+      <url>/mac/iStatMenus/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Source</th><th>Updated</th><th>Size</th><th>Download</th></tr></thead><tbody><tr><td><div class="unknown"><a href="http://xclient.info/s/istat-menus-for-mac.html" rel="external nofollow noopener noreferrer" target="_blank">xclient.info</a></div></td><td>2018-07-24</td><td>22.6MB</td><td><a href="https://img.vim-cn.com/39/ccff2532ab959f8cbb19141fd2f1aa0be83566.zip" rel="external nofollow noopener noreferrer" target="_blank">6.21</a></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -624,7 +649,7 @@
       
         <tags>
             
-            <tag> 编辑器 </tag>
+            <tag> 系统工具 </tag>
             
         </tags>
       
